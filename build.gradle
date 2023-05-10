@@ -1,0 +1,30 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '0.7.2'
+}
+
+group 'MyPlugin.SampleMenu'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    maven { url 'https://maven.aliyun.com/nexus/content/repositories/central/' }
+}
+
+dependencies {
+//    compileOnly 'com.intellij:annotations:20.0.0'
+    compile 'com.google.code.gson:gson:2.8.9' // 使用 Gson
+    compile 'cn.hutool:hutool-all:5.8.16' // 使用 Hutool
+    // 如果你想使用 Jackson，可以添加以下依赖
+    // compile 'com.fasterxml.jackson.core:jackson-databind:2.13.0' // 使用 Jackson
+}
+
+intellij {
+    version '2019.3.1'
+}
+
+tasks.named("buildPlugin").configure {
+    dependsOn jar
+}

@@ -1,0 +1,38 @@
+<idea-plugin>
+  <id>com.pyx.plugin.CodeInterpreterAction</id>
+  <name>GPTCodeExplanation</name>
+  <version>1.0</version>
+  <vendor email="2443031604@qq.com" url="https://pyx.redhat.team">pyx</vendor>
+
+  <description><![CDATA[
+      <em>愿</em>天下<b>没有</b>难懂的<span style="text-decoration:underline;"><em>代码</em></span>！
+    ]]></description>
+
+  <change-notes><![CDATA[
+     <em>愿</em>天下<b>没有</b>难懂的<span style="text-decoration:underline;"><em>代码</em></span>！
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+  </extensions>
+
+  <actions>
+    <group id="MyPlugin.SampleMenu" text="GPTCodeExplanation" description="Sample menu for our plugin">
+      <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+      <action id="MyPlugin.CodeInterpreter" class="com.pyx.plugin.CodeInterpreterAction" text="家人们，谁懂啊" description="愿天下没有难懂的代码！"/>
+    </group>
+    <group id="MyPlugin.SampleMenu1" text="GPTCodeExplanation" description="Sample menu for our plugin">
+      <add-to-group group-id="ConsoleEditorPopupMenu" anchor="first"/>
+      <action id="MyPlugin.CodeInterpreter1" class="com.pyx.plugin.CodeInterpreterAction" text="Bug？不存在的" description="能跑就行"/>
+    </group>
+  </actions>
+
+
+</idea-plugin>

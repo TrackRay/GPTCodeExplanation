@@ -22,7 +22,12 @@
 ## 功能
 
 1. 代码解释：对选中的代码块进行解释，方便开发人员理解代码含义
+
 2. BUG解释：在`console`控制台选中报错信息进行解释
+
+3. **演示：**[演示视频(高清)-bilibili](https://www.bilibili.com/video/BV1d24y1T7Ee)
+
+   ![opexample](https://docx.redhat.team/opexample.gif)
 
 ## 注意事项
 

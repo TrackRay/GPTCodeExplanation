@@ -13,7 +13,7 @@
 2. 点击右上角的"Install plugin from disk..."按钮
 3. 选择下载好的GPTCodeExplanation插件文件，点击"OK"按钮
 4. 重启IDEA，插件即可生效
-5.**图示：**![install](https://s1.ax1x.com/2023/05/10/p9DYIEj.png)
+5. **图示：**![install](https://s1.ax1x.com/2023/05/10/p9DYIEj.png)
 
 ## 使用
 

@@ -4,7 +4,7 @@
 
 愿各位**崇德启智，励志博学**。不要听从那些消极悲观者的声音。能编程的编程，能学习的学习。把握每一次机会，用你的热情点燃未来。就像代码解释插件一样，它带给你更深入的理解和知识。不必等待完美的时机，现在就开始行动。
 
-[下载地址]("https://docx.redhat.team/GPTCodeExplanation.zip")  [文档地址](https://docx.redhat.team/)  [调用量](https://chart.redhat.team/)
+[下载地址](https://docx.redhat.team/GPTCodeExplanation.zip)  [文档地址](https://docx.redhat.team/)  [调用量](https://chart.redhat.team/)
 
 ## 安装
 

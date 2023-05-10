@@ -45,7 +45,7 @@
 
 **感谢支持！**
 
-<img src="https://s1.ax1x.com/2023/05/10/p9DnOG4.png" alt="吨吨吨" style="zoom:50%;" />
+<img src="https://docx.redhat.team/denote.png" alt="吨吨吨" style="zoom:50%;" />
 
 - 赞助列表
 

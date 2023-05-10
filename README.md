@@ -34,6 +34,20 @@
 
 如有任何问题或建议，请联系我：[2443031604@qq.com](mailto:2443031604@qq.com)
 
+## 请我喝杯咖啡
+
+**感谢支持！**
+
+<img src="https://s1.ax1x.com/2023/05/10/p9DnOG4.png" alt="吨吨吨" style="zoom:50%;" />
+
+- 赞助列表
+
+  | 名字 | 金额 | 备注   |
+  | ---- | ---- | ------ |
+  | 小韩 | 18.8 | 喝咖啡 |
+  |      |      |        |
+  |      |      |        |
+
 ## License
 
 GPTCodeExplanation is licensed under the GPL License. See `LICENSE` for more information.

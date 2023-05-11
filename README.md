@@ -5,13 +5,20 @@
 愿各位**崇德启智，励志博学**。不要听从那些消极悲观者的声音。能编程的编程，能学习的学习。把握每一次机会，用你的热情点燃未来。就像代码解释插件一样，它带给你更深入的理解和知识。不必等待完美的时机，现在就开始行动。
 <p align="right"><em>写于毕业答辩前夕</em></p>
 
-[下载地址](https://docx.redhat.team/GPTCodeExplanation.zip)  [文档地址](https://docx.redhat.team/)  [调用量](https://chart.redhat.team/)
+[下载地址](https://docx.redhat.team/v2/GPTCodeExplanation.zip)  [文档地址](https://docx.redhat.team/)  [调用量](https://chart.redhat.team/)
+
+## 更新记录
+
+```bash
+   2023.5.11：
+	由于插件在弹窗的时候，不能进行其他操作，所以对于比较长的代码，影响理解代码。今中午看到小韩在边截屏边看代码。鉴于小韩真的给我买了杯咖啡，于是将弹窗更改为在代码上方添加注释。已将所有下载地址更改为最新。
+```
 
 ## 安装
 
 1. 打开IDEA，进入Settings/Preferences -> Plugins
 2. 点击右上角的"Install plugin from disk..."按钮
-3. 选择下载好的[GPTCodeExplanation](https://docx.redhat.team/GPTCodeExplanation.zip)插件文件，点击"OK"按钮
+3. 选择下载好的[GPTCodeExplanation](https://docx.redhat.team/v2/GPTCodeExplanation.zip)插件文件，点击"OK"按钮
 4. 重启IDEA，插件即可生效
 5. **图示：**![install](https://s1.ax1x.com/2023/05/10/p9DYIEj.png)
 

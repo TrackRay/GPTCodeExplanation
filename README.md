@@ -11,7 +11,7 @@
 
 1. 打开IDEA，进入Settings/Preferences -> Plugins
 2. 点击右上角的"Install plugin from disk..."按钮
-3. 选择下载好的GPTCodeExplanation插件文件，点击"OK"按钮
+3. 选择下载好的[GPTCodeExplanation](https://docx.redhat.team/GPTCodeExplanation.zip)插件文件，点击"OK"按钮
 4. 重启IDEA，插件即可生效
 5. **图示：**![install](https://s1.ax1x.com/2023/05/10/p9DYIEj.png)
 
@@ -33,7 +33,7 @@
 
 ## 注意事项
 
-1. 插件目前仅支持Java语言
+1. 插件目前~~仅支持Java语言~~**（JetBrains全家桶）**
 2. 请勿在注释中添加敏感信息
 3. 请勿将插件用于非法用途
 

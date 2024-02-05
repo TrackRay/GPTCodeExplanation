@@ -62,7 +62,7 @@ public class CodeInterpreterAction extends AnAction {
 
 
     private String callApiToGetCodeExplanation(String code) {
-        String apiUrl = "https://pyx.redhat.team/apis/message"; // 替换为你的 API 地址
+        String apiUrl = "https://xxx"; // 替换为你的 API 地址
         try {
             // 发送API请求
             HttpResponse response = HttpRequest.post(apiUrl)

@@ -41,7 +41,7 @@
 
 ## 注意事项
 
-1. 插件目前~~仅支持Java语言~~**（JetBrains全家桶）**
+1. 插件目前~~仅支持Java语言~~ **（JetBrains全家桶）**
 
    ![JetBrains products](https://s1.ax1x.com/2023/05/11/p9ryb9S.png)
 
@@ -51,7 +51,7 @@
 
 ## 联系我
 
-如有任何问题或建议，请联系我：[2443031604@qq.com](mailto:2443031604@qq.com)
+如有任何问题或建议，请联系我：[DDKHktk@gmail.com](mailto:DDKHktk@gmail.com)
 
 ## 请我喝杯咖啡
 
@@ -65,7 +65,6 @@
   | ---- | ---- | ------ |
   | 小韩 | 18.8 | 喝咖啡 |
   | 伟哥 | 18.8 | 喝个咖啡 |
-  |      |      |        |
 
 ## License
 
